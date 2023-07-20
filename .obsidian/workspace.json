@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "another one (file).md",
+                "file": "new input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "005a884db050688f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Added file - empty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81d32593f399272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "another one (file).md",
+                "file": "2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "another one (file).md",
+                "file": "2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "another one (file).md"
+                "file": "2023-07-20.md"
               }
             }
           },
@@ -154,11 +179,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0d47e4d4643ef81f",
+  "active": "f81d32593f399272",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "2023-07-20.md",
+    "Без названия 1.canvas",
+    "Added file.md",
+    "Added file - empty.md",
     "new input.md",
     "another one (file).md",
-    "Без названия.canvas",
     "Title.md",
     "Без названия",
     "new note file in obsidian.md",

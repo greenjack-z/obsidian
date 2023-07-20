@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"be09a252ff9f066d","x":-281,"y":-174,"width":250,"height":60,"type":"text","text":"some on canvas added"},
+		{"id":"2c1024d5344dd030","x":-100,"y":-20,"width":400,"height":400,"type":"file","file":"Added file - empty.md"}
+	],
+	"edges":[
+		{"id":"b960caa84a546b12","fromNode":"be09a252ff9f066d","fromSide":"bottom","toNode":"2c1024d5344dd030","toSide":"top"}
+	]
+}
