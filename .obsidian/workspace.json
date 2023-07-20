@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "another one (file).md",
+                "file": "new input.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "another one (file).md",
+                "file": "new input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "another one (file).md",
+                "file": "new input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "another one (file).md"
+                "file": "new input.md"
               }
             }
           },
@@ -154,11 +154,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5091a526c5cf2c64",
+  "active": "0d47e4d4643ef81f",
   "lastOpenFiles": [
-    "Без названия.canvas",
-    "new input.md",
     "another one (file).md",
+    "new input.md",
+    "Без названия.canvas",
     "Title.md",
     "Без названия",
     "new note file in obsidian.md",
