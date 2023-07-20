@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new input.md",
+                "file": "another one (file).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new input.md",
+                "file": "another one (file).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new input.md",
+                "file": "another one (file).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new input.md"
+                "file": "another one (file).md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "0d47e4d4643ef81f",
   "lastOpenFiles": [
-    "another one (file).md",
     "new input.md",
+    "another one (file).md",
     "Без названия.canvas",
     "Title.md",
     "Без названия",
