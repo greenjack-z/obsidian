@@ -1,0 +1,1 @@
+[Power Supply] Cooler Master V650 Gold SFX Full Modular 650W
