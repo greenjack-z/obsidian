@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kata/Список вопросов Core-1.md",
-                "mode": "source",
+                "file": "Kata/p2p interview/Список вопросов Core-1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc460eead5baf35a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kata/Список вопросов Core-1.md",
+                "file": "Kata/p2p interview/Список вопросов Core-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kata/Список вопросов Core-1.md",
+                "file": "Kata/p2p interview/Список вопросов Core-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kata/Список вопросов Core-1.md"
+                "file": "Kata/p2p interview/Список вопросов Core-1.md"
               }
             }
           },
@@ -147,7 +148,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,8 +167,14 @@
   },
   "active": "92b8253129f19efc",
   "lastOpenFiles": [
+    "Incapsulation.md",
+    "Kata/p2p interview/Список вопросов Core-1.md",
     "Kata/Объектно-Ориентированное Программирование.md",
-    "Kata/Список вопросов Core-1.md",
+    "Kata/p2p interview/Core 1 questionare.md",
+    "Kata/p2p interview",
+    "Kata/Bootstrap.md",
+    "Kata/AJAX, fetch.md",
+    "Без названия.md",
     "Kata/Ревью 3.1.7.md",
     "Kata/Spring security.md",
     "Kata/basicAuthentication.md",
@@ -186,13 +194,8 @@
     "Kata/HTTP Headers protection.md",
     "Kata/RestTemplate.md",
     "Kata/HTTP.md",
-    "Kata/AJAX, fetch.md",
     "Kata/REST.md",
     "Kata/CSRF protection.md",
-    "Kata/Bootstrap.md",
-    "Kata/CascadeType..md",
-    "Kata/OneToOne.md",
-    "Kata/ManyToMany.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Без названия",
