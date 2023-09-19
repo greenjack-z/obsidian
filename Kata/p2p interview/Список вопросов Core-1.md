@@ -10,11 +10,10 @@ tags:
 ---
 ```dataview
 TABLE WITHOUT ID
-(length(filter(this.file.tasks.completed, (t) => t = true))) AS ОК,
-(length(filter(this.file.tasks.completed, (t) => t = false))) AS Осталось,
-(length(this.file.tasks)) AS Всего,
-(length(filter(this.file.tasks.completed, (t) => t = true))) / (length(this.file.tasks)) * 100 AS "% OK"
-WHERE file.path = this.file.path
+(length(filter(this.file.tasks.text, (t) => t = "OK"))) AS "Всего вопросов",
+(length(filter(this.file.tasks.completed, (t) => t = true))) AS Отвечено,
+(length(filter(this.file.tasks.completed, (t) => t = true))) / (length(this.file.tasks)) * 100 AS "% Правильных"
+FROM #core1 
 ```
 ## ООП
 

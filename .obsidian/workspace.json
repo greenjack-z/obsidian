@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac202550f0aef3b7",
+        "id": "bee7e1bfc1ede69c",
         "type": "tabs",
         "children": [
           {
-            "id": "92b8253129f19efc",
+            "id": "28d3ae3ba4e7d2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc460eead5baf35a",
@@ -149,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,11 +164,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "92b8253129f19efc",
+  "active": "28d3ae3ba4e7d2ed",
   "lastOpenFiles": [
-    "Incapsulation.md",
-    "Kata/p2p interview/Список вопросов Core-1.md",
     "Kata/Объектно-Ориентированное Программирование.md",
+    "Kata/p2p interview/Список вопросов Core-1.md",
+    "Kata/p2p interview/Без названия.md",
+    "Incapsulation.md",
     "Kata/p2p interview/Core 1 questionare.md",
     "Kata/p2p interview",
     "Kata/Bootstrap.md",
@@ -195,7 +195,6 @@
     "Kata/RestTemplate.md",
     "Kata/HTTP.md",
     "Kata/REST.md",
-    "Kata/CSRF protection.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Без названия",

@@ -1,2 +1,2 @@
 Incapsulation: 
-> [!info] Example
+> [!example]
