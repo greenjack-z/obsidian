@@ -13,7 +13,7 @@ tags:
 2. от Throwable  -> **Error** (ошибки JVM) и **Exception** (checked общие)
 3. от Exception  -> **RuntimeException** (unchecked) -> **IOException, SQLException, ReflectiveOperationException** (checked)
 4. RuntimeException (unchecked):   **ClassCastExceptiuon   IndexOutOfBoundException   AritthmeticException   NullPointerException**
-![[Pasted image 20230919175056.png|600]]
+![[Exceptions.png|600]]
 
 ## Checked / Unchecked
 1. **Checked** исключения, это те, которые должны обрабатываться блоком catch или описываться в сигнатуре метода.
