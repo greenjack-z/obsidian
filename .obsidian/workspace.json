@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kata/p2p interview/Core-1 questions.md",
-                "mode": "preview",
+                "file": "Kata/Java innovations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "collection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kata/p2p interview/Core-1 questions.md",
+                "file": "Kata/Java innovations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kata/p2p interview/Core-1 questions.md",
+                "file": "Kata/Java innovations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kata/p2p interview/Core-1 questions.md"
+                "file": "Kata/Java innovations.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,6 +166,23 @@
   },
   "active": "a866893bc621c061",
   "lastOpenFiles": [
+    "Kata/Stream API.md",
+    "Kata/Java innovations.md",
+    "Kata/p2p interview/Core-2 questions.md",
+    "Kata/Функциональные интерфейсы.md",
+    "Kata/p2p interview/Core-1 questions.md",
+    "Kata/Collections.md",
+    "Pasted image 20230927115223.png",
+    "Pasted image 20230927110751.png",
+    "Pasted image 20230926122811.png",
+    "Pasted image 20230926122432.png",
+    "Pasted image 20230926122248.png",
+    "Pasted image 20230925130239.png",
+    "Kata/Java Primitive types.md",
+    "Kata/Java.md",
+    "Kata/OOP (Object-Oriented Programming).md",
+    "Kata/Generics.md",
+    "Pasted image 20230925112623.png",
     "Kata/p2p interview/Core-1 notes.md",
     "Kata/CQS (сommand-query separation).md",
     "PC/Config.md",
@@ -173,15 +190,7 @@
     "temps.md",
     "Untitled.md",
     "Kata/pictures/G1 GC Heap.png",
-    "Kata/Java.md",
     "Pasted image 20230919121235.png",
-    "Pasted image 20230918195802.png",
-    "Pasted image 20230918195751.png",
-    "Pasted image 20230918195601.png",
-    "Pasted image 20230918195546.png",
-    "Pasted image 20230918195531.png",
-    "Pasted image 20230918195525.png",
-    "Pasted image 20230918195439.png",
     "Kata/YAGNI (You Aren't Gonna Need IT).md",
     "Kata/Spring security.md",
     "Kata/SOLID.md",
@@ -193,15 +202,6 @@
     "Kata/Principal, Authorities, Authentication..md",
     "Kata/Polymorphizm.md",
     "Kata/OR (Occam's Razor).md",
-    "Kata/Open & Close.md",
-    "Kata/OOP (Object-Oriented Programming).md",
-    "Kata/OneToOne.md",
-    "Kata/Modifiers.md",
-    "Kata/Method Security.md",
-    "Kata/ManyToMany.md",
-    "Kata/KISS (Keep It Simple Stupid).md",
-    "Kata/Java Primitive types.md",
-    "Incapsulation.md",
     "Kata/pictures",
     "Kata/p2p interview",
     "PC",
