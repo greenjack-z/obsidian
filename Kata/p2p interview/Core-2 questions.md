@@ -262,7 +262,82 @@ WHERE file.path = this.file.path
 ## Stream API
 Вопросов в разделе: `= (length(filter(this.file.tasks.section, (h) => meta(h).subpath = "Stream API")))`
 
-> [!question]- Что такое Stream API? Для чего нужны стримы? http
-> ![[Функциональные интерфейсы#Как можно и как нельзя? Иногда на собеседованиях просят найти ошибку в коде]]
+> [!question]- Что такое Stream API? Для чего нужны стримы?
+> ![[Stream API#Что такое Stream API? Для чего нужны стримы?]]
+> - [ ] OK
+
+> [!question]- Почему Stream называют ленивым?
+> ![[Stream API#Почему Stream называют ленивым?]]
+> - [ ] OK
+
+> [!question]- Какие существуют способы создания стрима?
+> ![[Stream API#Какие существуют способы создания стрима?]]
+> - [ ] OK
+
+> [!question]- Как из коллекции создать стрим?
+> ![[Stream API#Как из коллекции создать стрим?]]
+> - [ ] OK
+
+> [!question]- Какие промежуточные методы в стримах вы знаете?
+> ![[Stream API#Какие промежуточные методы в стримах вы знаете?]]
+> - [ ] OK
+
+> [!question]- Какие терминальные методы в стримах вы знаете?
+> ![[Stream API#Какие терминальные методы в стримах вы знаете?]]
+> - [ ] OK
+
+> [!question]- Расскажите про метод collect()
+> ![[Stream API#Расскажите про метод collect()]]
+> - [ ] OK
+
+> [!question]- Расскажите про метод reduce()
+> ![[Stream API#Расскажите про метод reduce()]]
+> - [ ] OK
+
+> [!question]- Расскажите о параллельной обработке в Java 8
+> ![[Stream API#Расскажите о параллельной обработке в Java 8.]]
+> - [ ] OK
+
+> [!question]- Что такое IntStream и DoubleStream?
+> ![[Stream API#Что такое IntStream и DoubleStream?]]
+> - [ ] OK
+
+## Java 8
+Вопросов в разделе: `= (length(filter(this.file.tasks.section, (h) => meta(h).subpath = "Java 8")))`
+
+> [!question]- Какие нововведения появились в java 8?
+> ![[Java innovations#Какие нововведения появились в java 8?]]
+> - [ ] OK
+
+> [!question]- Какие нововведения появились в java 17?
+> ![[Java innovations#Нововведения Java8 >> Java 17]]
+> - [ ] OK
+
+> [!question]- Какие новые классы для работы с датами появились в java 8
+> ![[Java innovations#Какие новые классы для работы с датами появились в java 8?]]
+> - [ ] OK
+
+> [!question]- Расскажите про класс Optional
+> ![[Java innovations#Расскажите про класс Optional]]
+> - [ ] OK
+
+> [!question]- Какой класс появился в Java 8 для кодирования/декодирования данных?
+> ![[Java innovations#Какой класс появился в Java 8 для кодирования/декодирования данных?]]
+> - [ ] OK
+
+> [!question]- Как создать Base64 кодировщик и декодировщик?
+> ![[Java innovations#Как создать Base64 кодировщик и декодировщик?]]
+> - [ ] OK
+
+> [!question]- Какие дополнительные методы для работы с ассоциативными массивами (maps) появились в Java 8?
+> ![[Java innovations#Какие дополнительные методы для работы с ассоциативными массивами (maps) появились в Java 8?]]
+> - [ ] OK
+
+> [!question]- Что такое LocalDateTime?
+> ![[Java innovations#Что такое LocalDateTime?]]
+> - [ ] OK
+
+> [!question]- Что такое ZonedDateTime?
+> ![[Java innovations#Что такое ZonedDateTime?]]
 > - [ ] OK
 

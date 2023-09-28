@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1a44bd6e5bb99b",
+        "id": "c58c30f9dbac24d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a866893bc621c061",
+            "id": "a35907faa56184a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kata/Java innovations.md",
+                "file": "Kata/p2p interview/Core-2 questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kata/Java innovations.md",
+                "file": "Kata/p2p interview/Core-2 questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kata/Java innovations.md",
+                "file": "Kata/p2p interview/Core-2 questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kata/Java innovations.md"
+                "file": "Kata/p2p interview/Core-2 questions.md"
               }
             }
           },
@@ -164,11 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a866893bc621c061",
+  "active": "a35907faa56184a7",
   "lastOpenFiles": [
     "Kata/Stream API.md",
-    "Kata/Java innovations.md",
     "Kata/p2p interview/Core-2 questions.md",
+    "README.md",
+    "Kata/Java innovations.md",
     "Kata/Функциональные интерфейсы.md",
     "Kata/p2p interview/Core-1 questions.md",
     "Kata/Collections.md",
@@ -201,7 +202,6 @@
     "Kata/Protection Against Exploits.md",
     "Kata/Principal, Authorities, Authentication..md",
     "Kata/Polymorphizm.md",
-    "Kata/OR (Occam's Razor).md",
     "Kata/pictures",
     "Kata/p2p interview",
     "PC",
